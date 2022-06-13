@@ -31,4 +31,4 @@ function multiply(a,b)
  A1 ~ A2
 
 ## My photo
-![mountains](C:\Users\КИСКИН\Downloads\297521-svetik_1920x1200.jpg)  
+![mountains](/img/moun.jpg "mountine")  
